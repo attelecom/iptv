@@ -43,6 +43,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="SUKAMENAK TV",SCTV
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/MOJI-TV-live-streaming-tv1.jpg" group-title="SUKAMENAK TV",MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -52,6 +55,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="SUKAMENAK TV",MOJI TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
+
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" group-title="SUKAMENAK TV",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -75,6 +79,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="SUKAMENAK TV",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="SUKAMENAK TV",RCTI
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
@@ -85,6 +94,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg" group-title="SUKAMENAK TV",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="SUKAMENAK TV",MNCTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 
@@ -94,6 +108,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg" group-title="SUKAMENAK TV",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="SUKAMENAK TV",GTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
@@ -197,6 +216,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="SUKAMENAK TV",iNEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="SUKAMENAK TV",iNEWS
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
