@@ -1,7 +1,8 @@
 #EXTM3U
 
-http://nonton.site:8080 DZqjznfyyn 3Q9O2vucT6
+https://github.com/mbahnunung/stb/blob/master/vs1.m3u8
 
+http://nonton.site:8080 DZqjznfyyn 3Q9O2vucT6
 
 http://exm3u.123tv.to:8080/  PsV8ILRBYZ  XVPZxk62WC
 
@@ -21,8 +22,6 @@ User: kamran800
 XYZ: 800kamran
 
 http://xtv.ooo:8080/get.php?username=musadiq&password=anything&type=m3u_plus
-
-
 
 xtv.ooo:8080/sanushop/12345678/
 
