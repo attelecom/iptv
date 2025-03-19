@@ -49,18 +49,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="SUKAMENAK TV",MOJI TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="SUKAMENAK TV",MOJI
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="SUKAMENAK TV",MOJI TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="SUKAMENAK TV",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/img/od0w7R3.png?v=1.0.0.1" group-title="tvN150N" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="Moji.id" tvg-name="Moji HD", MOJI HD
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="SUKAMENAK TV",MOJI TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="SUKAMENAK TV",MOJI
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
 
 
