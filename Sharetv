@@ -2,7 +2,7 @@
 
 ###Firstmedia
 
-#EXTINF:-1 group-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png", group-title="TRANSVISION"
+#EXTINF:-1 group-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png", group-title="FMK"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="FMX",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -435,6 +435,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 ###Vision Plus
 
+#EXTINF:-1 group-logo="https://partner-api.visionplus.id/static/web/img/xlogo.png.pagespeed.ic.7zTX54pToR.png", group-title="VISION +"
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="VISION+ MPD", SOCCER CHANNEL
@@ -978,9 +979,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangh
 
 
 
-
 ###Trans Media
 
+#EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg", group-title="TRANSVISION"
 
 
 #EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg", group-title="TRANSVISION",TVRI
@@ -1885,9 +1886,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
 
 
+###Dens. Tv
 
-###Dens Tv
-
+#EXTINF:-1 group-logo="https://media.giphy.com/avatars/denstv/hYonBB2e1FHG/200h.png", group-title="DENS. TV"
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS.TV",INDOSIAR_
