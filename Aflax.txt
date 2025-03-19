@@ -1,31 +1,5 @@
 #EXTM3U
 
-https://github.com/mbahnunung/stb/blob/master/vs1.m3u8
-
-http://nonton.site:8080 DZqjznfyyn 3Q9O2vucT6
-
-http://exm3u.123tv.to:8080/  PsV8ILRBYZ  XVPZxk62WC
-
-
-##http://aflaxtv.xyz:8080/get.php?username=test_acct&password=ohbo1veifa4AhD&type=m3u_plus
-
-http://xtv.ooo:8080/get.php?username=68984368&password=97547998&type=m3u_plus feb25
-
-http://xtv.ooo:8080/get.php?username=12345678910&password=12345678910&type=m3u_plus
-
-Maret 25
-User: 52882216
-XYZ: 581881255
-
-25 feb
-User: kamran800
-XYZ: 800kamran
-
-http://xtv.ooo:8080/get.php?username=musadiq&password=anything&type=m3u_plus
-
-xtv.ooo:8080/sanushop/12345678/
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: AFN/Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",ID: AFN/Asian Food Network
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298503
