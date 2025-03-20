@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, refresh="3600"
-
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRin5W2WPHYXGR50gr1pVsTWpmFxSmdCVPiTkRaymH4dgoeS4fVbuMRzaM&s=10", group-title="SUKAMENAK"
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV",TVRI Nasional
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
