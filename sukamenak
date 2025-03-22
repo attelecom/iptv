@@ -4,11 +4,8 @@
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="SUKAMENAK"
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", TVRI Nasional
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="1", TVRI
+https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="2", TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
