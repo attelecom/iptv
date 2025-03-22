@@ -131,13 +131,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="27", TRANS 7
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="27", TRANS7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="28", TRANS 7
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="28", TRANS7
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -146,17 +146,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SUKAMENAK TV" ch-number="29", TRANS 7
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SUKAMENAK TV" ch-number="29", TRANS7
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162502
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="30", TRANS TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="30", TRANSTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="31", TRANS TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="31", TRANSTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -165,7 +165,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="SUKAMENAK TV" ch-number="32", TRANS TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="SUKAMENAK TV" ch-number="32", TRANSTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
 
 
