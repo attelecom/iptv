@@ -6,6 +6,10 @@
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
+#EXTINF:-1 group-title="085350012224" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
 ====
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png",Antara
