@@ -139,7 +139,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
