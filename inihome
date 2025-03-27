@@ -19,6 +19,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 #EXTINF:-1 group-title="[INIHOME]"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
+#EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png",iNews
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
 =====
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI
