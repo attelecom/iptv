@@ -9,4 +9,4 @@ inihome link: https://s.id/inihome
 
 Sharetv link: https://s.id/TmUju
 
-sukamenak link: https://s.id/DjTv
+sukamenak link: https://s.id/DJ-TV
