@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
 
-
+######################################################
+### PLAYLIST UNTUK KOLEKSI, TIDAK DIPERJUALBELIKAN ###
+###########################$#$$#######################
 
 #EXTINF:-1 group-title="Knowledge"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
