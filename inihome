@@ -123,7 +123,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV
-https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=18162&type=hls
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
 #https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
@@ -139,7 +139,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
