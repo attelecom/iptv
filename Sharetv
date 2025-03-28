@@ -2161,8 +2161,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 #EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png", group-title="Indonesia"
 
-#EXTHTTP:http-referrer=https://iptvtree.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="ID: AFN/Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",ID: AFN/Asian Food Network
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298503
 #EXTINF:-1 tvg-id="" tvg-name="ID: Al Wafa Tarim" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/510d06f193e1c004cfdd844488e79ce9.png" group-title="Indonesia",ID: Al Wafa Tarim
