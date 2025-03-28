@@ -2161,7 +2161,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 #EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png", group-title="Indonesia"
 
-
+#EXTHTTP:http-referrer=https://iptvtree.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="ID: AFN/Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="Indonesia",ID: AFN/Asian Food Network
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298503
 #EXTINF:-1 tvg-id="" tvg-name="ID: Al Wafa Tarim" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/510d06f193e1c004cfdd844488e79ce9.png" group-title="Indonesia",ID: Al Wafa Tarim
@@ -2526,65 +2527,65 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264751
 #EXTM3U
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkbDhwoaH9kGGjMidRvKScVxi22S_PG2molepAY72e9u0Mncv_AuekNY&s=10", group-title="NONTON TV"
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="NONTON TV",DAAI TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/21
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="NONTON TV",NET TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="NONTON TV",ANTV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/31
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="NONTON TV",SCTV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/32
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="NONTON TV",Trans TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/34
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="NONTON TV",Trans 7
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="NONTON TV",Rajawali TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="NONTON TV",NET TV FHD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/78
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="NONTON TV",JTV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/135
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="NONTON TV",Bali TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/889
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="NONTON TV",Dunia Lain
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/910
 
-#EXTVLCOPT:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="NONTON TV",Trans TV FHD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/929
