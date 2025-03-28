@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
+#EXTM3U
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" $BorpasFileFormat="1" 
+
 
 ######################################################
 ### PLAYLIST UNTUK KOLEKSI, TIDAK DIPERJUALBELIKAN ###
