@@ -2582,9 +2582,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/889
 #EXTVLCOPT:http-referrer=https://nonton.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="NONTON TV",Dunia Lain
-
-#EXTVLCOPT:http-referrer=https://nonton.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/910
 
 #EXTVLCOPT:http-referrer=https://nonton.site/
@@ -2592,11 +2589,16 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/910
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="NONTON TV",Trans TV FHD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/929
 
+#EXTHTTP:http-referrer=https://nonton.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="NONTON TV",Trans 7 FHD
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/930|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=https://nonton.site/
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/930
 
+#EXTHTTP:http-referrer=https://nonton.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="NONTON TV",SCTV HD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/931
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="NONTON TV",Indosiar
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1845
 #EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" group-title="NONTON TV",Hope Channel
