@@ -2525,11 +2525,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264751
 
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://nonton.site/
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkbDhwoaH9kGGjMidRvKScVxi22S_PG2molepAY72e9u0Mncv_AuekNY&s=10", group-title="NONTON TV"
 
 #EXTVLCOPT:http-referrer=https://nonton.site/
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="NONTON TV",DAAI TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/21
 
