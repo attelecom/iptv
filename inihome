@@ -67,6 +67,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
+https://streaming.indihometv.com/atm/DASH/idx/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
