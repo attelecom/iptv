@@ -31,7 +31,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SUKAMENAK TV" ch-number="8", INDOSIAR
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162138
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/162138
 
 
 #EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="9", SCTV
