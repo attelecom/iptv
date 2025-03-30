@@ -11,7 +11,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="3", TVRI Sport HD
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166686
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="SUKAMENAK TV" ch-number="4", TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
@@ -31,7 +31,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SUKAMENAK TV" ch-number="8", INDOSIAR
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162138
 
 
 #EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="9", SCTV
@@ -64,7 +64,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="SUKAMENAK TV" ch-number="14", MOJI
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="15", ANTV
@@ -95,7 +95,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|R
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="SUKAMENAK TV" ch-number="20", RCTI
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="21", MNCTV
@@ -110,7 +110,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="SUKAMENAK TV" ch-number="23", MNCTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165054
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="24", GTV
@@ -125,7 +125,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Refe
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="SUKAMENAK TV" ch-number="26", GTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157578
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="27", TRANS7
@@ -144,7 +144,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SUKAMENAK TV" ch-number="29", TRANS7
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162502
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162502
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="30", TRANSTV
@@ -163,7 +163,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="SUKAMENAK TV" ch-number="32", TRANSTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162503
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="33", MDTV
@@ -254,7 +254,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HD
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="SUKAMENAK TV" ch-number="50", iNEWS
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157579
 
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hF7S77p.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="51", SINDO NEWS
@@ -264,7 +264,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="SUKAMENAK TV" ch-number="52", SINDO NEWS
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299485
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299485
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="53", BERITA SATU
@@ -274,7 +274,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299485
 https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="SUKAMENAK TV" ch-number="54", BERITA SATU
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162513
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162513
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="55", CNN Indonesia
