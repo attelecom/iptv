@@ -3793,210 +3793,171 @@ https://phdown.serv00.net/Smartv.php?id=Rockentertain
 
 TVRI National,
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",TVRI National
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",TVRI National
 http://50.7.234.10:8278/TVRI/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=dbd7376879bca45be188dc44dc11d4a5
 RCTI,
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",RCTI
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",RCTI
 http://50.7.234.10:8278/Rcti/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7ec0034ef940acd93e05488c5bbfc496
 Kompass TV,
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Kompas TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Kompas TV
 http://50.7.234.10:8278/Kompass/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0f7b5f2f1c255abf09430724d3c743bd
 Berita Satu,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Berita Satu
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Berita Satu
 http://50.7.234.10:8278/BeritaSatu_eko/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f99d52840554de679174f0c6ebb0d55f
 Indosiar HD,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Indosiar HD
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Indosiar HD
 http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ec65e6193af63cacb2e29e9cf9bc2213
 AnTV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",AnTV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",AnTV
 http://50.7.234.10:8278/Antv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ef7c7f146beca303dd89f0440ad33c03
 MNC TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",MNC TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",MNC TV
 http://50.7.234.10:8278/Mnctv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8755d531c2a9d73f0ded6f084aa1d929
 Trans 7,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Trans 7
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Trans 7
 http://50.7.234.10:8278/Trans7_eko/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b8b149e9f96d048da0afaa93f2f9593b
 Transtv,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Trantv
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Trantv
 http://50.7.234.10:8278/Transtv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4fb2390d5c1c98a81b99f4db26ba3140
 JTV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",JTV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",JTV
 http://50.7.234.10:8278/JTV_eko/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b14d793e231579a24a98c4f80bef5356
 Metro TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Metro TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Metro TV
 http://50.7.234.10:8278/metrotv_eko/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fea19bafb29e2ae96a0f7376f8d51956
 Cinemax,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",
 http://50.7.234.10:8278/Cinemax/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ada626ce959c35b381623fb20ed93b6
 SCTV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",SCTV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",SCTV
 http://50.7.234.10:8278/SCTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9e3da519cebc6934aa58d538a877da29
 Tvone,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Tvone
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Tvone
 http://50.7.234.10:8278/Tvone/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1aed307cc2d572bbb9c72f83cd69d55f
 TVMU,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",TVMU
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",TVMU
 http://50.7.234.10:8278/TVMU_eko/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c2b1879ab7899be987630d09c1288a38
 GTV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",GTV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",GTV
 http://50.7.234.10:8278/Gtv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b96cf0bb8855a373eebee69ac49ac295
 RTV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",RTV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",RTV
 http://50.7.234.10:8278/Rtv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c221516ed8ec7af7c4ff1939cad85412
 Jak TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Jak TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Jak TV
 http://50.7.234.10:8278/JakTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fc0a637d365a64a6e974f205c179ccac
 iNews TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",iNews
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",iNews
 http://50.7.234.10:8278/Inewstv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6f5a9b8e9bbe53151f48f995ab1e87ea
 Daai TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Daai TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Daai TV
 http://50.7.234.10:8278/DaaiTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=565c318e48169f069e7152048dcdc982
 Net TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Net TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Net TV
 http://50.7.234.10:8278/NetTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d7bfa013434ca970f1acd5aab5bb2ecb
 Animax,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Animax
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Animax
 http://50.7.234.10:8278/Animax/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8040109662eda684ec7648c719e790ce
 EWTN,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",EWTN
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",EWTN
 http://50.7.234.10:8278/Ewtn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bca2a47c1647ae80299226738e1d644b
 AlQuran AlKareem,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",AlQuran AlKareem
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",AlQuran AlKareem
 http://50.7.234.10:8278/AlQuran/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=113abd955720196c4fec669571edc67e
 Tawaf TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Tawaf TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Tawaf TV
 http://50.7.234.10:8278/TawafTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2dca99e0c6956b58135e4da7d3f0f19d
 Vision Prime,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Vision Prime
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Vision Prime
 http://50.7.234.10:8278/VisionPrime/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7d0ffa2b8e35cc67753a046715077c44
 Muslim TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Muslim TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Muslim TV
 http://50.7.234.10:8278/MuslimTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8aa244263ddcd4486b77bf0be4dc5d88
 Music TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Music TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Music TV
 http://50.7.234.10:8278/MusicTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d2995ebd29ca8020ff54e9be5199670e
 Lifestyle&Fashion,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Lifestyle&Fashion
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Lifestyle&Fashion
 http://50.7.234.10:8278/Lifestyle/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=db9f7973707d181700ec21d1ac692fde
 Entertain,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Entertain
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Entertain
 http://50.7.234.10:8278/Entertain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0bb0536b6989d935f9d54d569cd17ad9
 Hits,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Hits
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Hits
 http://50.7.234.10:8278/Hits/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c56dcaa3ae69f035d3aac2b1ee5fb353
 Warner TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Warner TV
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Warner TV
 http://50.7.234.10:8278/WarnerTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9a6977885e3b656963da17bd8654ea51
 SCM,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",SCM
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",SCM
 http://50.7.234.10:8278/Weishimovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=54f46905442bacc96c07e8e1c7372317
 Thrill,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Thrill
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Thrill
 http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0f3fa14946255db4971340542fe754d5
 Fight Sports,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Fight Sports
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Fight Sports
 http://50.7.234.10:8278/Fs/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b40f8a955e371a1f74b4c4e836b59f1a
 Beinsports 2 HD,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Beinsports 2 HD
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Beinsports 2 HD
 http://50.7.234.10:8278/Bein2hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=db01e8827bb36a5b1c8dac2ed4538fcc
 Hits Movie,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Hits Movie
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Hits Movie
 http://50.7.234.10:8278/Hitsmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=dd2fa04996a13cbcfcd2d9d6d1c64c97
 One,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",One
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",One
 http://50.7.234.10:8278/One_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a30a9169cdd283b41b4781277898b890
 tvN Movie,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",tvN Movie
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",tvN Movie
 http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=92c6ea0d65c04bfdadcbafc5260d1fe9
 Celestial Movies HD,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Celestial Movies H
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Celestial Movies H
 http://50.7.234.10:8278/Celestialindo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0bba166e49d3abeb80d99bcd7262581a
 Rock Actions,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Rock Actions
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Rock Actions
 http://50.7.234.10:8278/Rockaction/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=11ebb3a4d6e46ecca65d1465c265b05a
 Rock Entertainment,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Rock Entertainment
+#EXTINF:-1 group-title="LANCARTV" tvg-logo="XXX",Rock Entertainment
 http://50.7.234.10:8278/Rockentertain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a2156efe2a3c88720a0d629f0b7466d7
 
 
