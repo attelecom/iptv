@@ -3792,17 +3792,14 @@ https://phdown.serv00.net/Smartv.php?id=Rockentertain
 印尼 Indonesia,#genre#
 
 TVRI National,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",TVRI National
 http://50.7.234.10:8278/TVRI/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=dbd7376879bca45be188dc44dc11d4a5
 RCTI,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",RCTI
 http://50.7.234.10:8278/Rcti/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7ec0034ef940acd93e05488c5bbfc496
 Kompass TV,
-#EXTHTTP:http-referrer=http://50.7.234.10/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Kompas TV
 http://50.7.234.10:8278/Kompass/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0f7b5f2f1c255abf09430724d3c743bd
