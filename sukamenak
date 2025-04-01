@@ -248,14 +248,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299485
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="53", BERITA SATU
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="53", BTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="SUKAMENAK TV" ch-number="54", BERITA SATU
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162513
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="55", CNN Indonesia
