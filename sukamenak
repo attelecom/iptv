@@ -302,13 +302,3 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 End
 
-
-
-#EXTM3U
-#EXTINF:-1,beINSports-fr1
-http://iptv.am000.tv:8000/live/add17/add17/16.ts
-#EXTINF:-1,beINSports-fr2
-http://iptv.am000.tv:8000/live/add17/add17/17.ts
-#EXTINF:-1,BEINSPORTS-FR3
-http://iptv.am000.tv:8000/live/add17/add17/566.ts
-
