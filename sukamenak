@@ -134,8 +134,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-##https://live-c.cf.dmcdn.net/sec2(iE6y-8-lIHm8SNy0iZdHrNVjKyFalVCeq2VZjaRULqbNduGlwFaJIPkHzmBS1BDO5mSeRNQSTNyjAVrOcZ6ECKffswl-KGap4FjZHvukjnaaa_1dcfZh9j3VgpfVZq3P)/dm/3/x8qckyq/s/live-720.m3u8
-https://live-b.cf.dmcdn.net/sec2(2hmTtKjE1SABXWnXd1bBx_rliIfKz9qDR5TYE_QFLiIcXkggnj4uotdFUT2KxipPMI36lm2d_9esKBVlONoDczQ5WLdNQwfulIrRzf_5tdkOHnB07e9mvjKEaZEXPsGk)/dm/3/x8qckyq/s/live-720.m3u8#cell=lcfb
+https://live-c.cf.dmcdn.net/sec2(iE6y-8-lIHm8SNy0iZdHrNVjKyFalVCeq2VZjaRULqbNduGlwFaJIPkHzmBS1BDO5mSeRNQSTNyjAVrOcZ6ECKffswl-KGap4FjZHvukjnaaa_1dcfZh9j3VgpfVZq3P)/dm/3/x8qckyq/s/live-720.m3u8
+##https://live-b.cf.dmcdn.net/sec2(2hmTtKjE1SABXWnXd1bBx_rliIfKz9qDR5TYE_QFLiIcXkggnj4uotdFUT2KxipPMI36lm2d_9esKBVlONoDczQ5WLdNQwfulIrRzf_5tdkOHnB07e9mvjKEaZEXPsGk)/dm/3/x8qckyq/s/live-720.m3u8#cell=lcfb
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SUKAMENAK TV" ch-number="29", TRANS7
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162502
@@ -303,7 +303,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 End
 
 
-
+#BONUS#
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
 http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901
@@ -321,20 +321,4 @@ http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906
 http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907
 
 
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_417.png",beIN Sports 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_418.png",beIN Sports 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_419.png",beIN Sports 3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+######
