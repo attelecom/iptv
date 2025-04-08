@@ -131,11 +131,9 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157578
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="28", TRANS7
+#EXTHTTP:http-referrer=https://video.detik.com/
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://live-c.cf.dmcdn.net/sec2(iE6y-8-lIHm8SNy0iZdHrNVjKyFalVCeq2VZjaRULqbNduGlwFaJIPkHzmBS1BDO5mSeRNQSTNyjAVrOcZ6ECKffswl-KGap4FjZHvukjnaaa_1dcfZh9j3VgpfVZq3P)/dm/3/x8qckyq/s/live-720.m3u8
-##https://live-b.cf.dmcdn.net/sec2(2hmTtKjE1SABXWnXd1bBx_rliIfKz9qDR5TYE_QFLiIcXkggnj4uotdFUT2KxipPMI36lm2d_9esKBVlONoDczQ5WLdNQwfulIrRzf_5tdkOHnB07e9mvjKEaZEXPsGk)/dm/3/x8qckyq/s/live-720.m3u8#cell=lcfb
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w37916269_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SUKAMENAK TV" ch-number="29", TRANS7
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162502
@@ -148,7 +146,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162502
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="31", TRANSTV
-#EXTHTTP:http-referrer=https://nonton.site/
+#EXTHTTP:http-referrer=https://video.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/34
