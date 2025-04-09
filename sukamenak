@@ -74,10 +74,8 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="17", ANTV
-#EXTHTTP:http-referrer=https://nonton.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/31
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="SUKAMENAK TV" ch-number="17", ANTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="18", RCTI
@@ -91,9 +89,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|R
 #EXTVLCOPT:network-caching=1000
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="SUKAMENAK TV" ch-number="20", RCTI
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
+
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="21", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -150,7 +148,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mp
 #EXTHTTP:http-referrer=https://video.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/34
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="SUKAMENAK TV" ch-number="32", TRANSTV
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162503
@@ -165,10 +162,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="35", MDTV
-#EXTHTTP:http-referrer=https://nonton.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="SUKAMENAK TV" ch-number="35", MDTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/80292
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aNYcSQ.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="36", RTV
@@ -180,10 +175,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aNYcSQ.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="38", RTV
-#EXTHTTP:http-referrer=https://nonton.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37
+#EXTINF:-1: tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="SUKAMENAK TV" ch-number="38", RTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/196457
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="39", TV One
