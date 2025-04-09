@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" $BorpasFileFormat="1" 
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml" $BorpasFileFormat="1" 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="SUKAMENAK"
 
@@ -249,22 +249,27 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157579
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="SUKAMENAK TV" ch-number="52", SINDO NEWS
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299485
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",group-title="SUKAMENAK TV" ch-number="52", IDX
+#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=https://www.visionplus.id
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png" group-title="SUKAMENAK TV" ch-number="53", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="54", BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="55", CNN Indonesia
-http://cdn.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="56", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="SUKAMENAK TV" ch-number="56", NUSANTARA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TJuL10B.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="57", CNBC Indonesia
