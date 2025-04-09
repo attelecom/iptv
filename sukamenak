@@ -250,7 +250,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157579
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",group-title="SUKAMENAK TV" ch-number="52", IDX
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png",group-title="SUKAMENAK TV" ch-number="52", IDX
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
 https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=https://www.visionplus.id
 
@@ -267,16 +267,17 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="SUKAMENAK TV" ch-number="56", NUSANTARA TV
+#EXTINF:-1 tvg-logo="https://iili.io/2W8UsX2.png" group-title="SUKAMENAK TV" ch-number="56", NUSANTARA TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TJuL10B.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="57", CNBC Indonesia
-http://cdn.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TJuL10B.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="58", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="SUKAMENAK TV" ch-number="58", GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="59", SOCCER CHANNEL
@@ -285,21 +286,25 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+
 ##EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7aRlmr.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="60", SPORTSTAR 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/89cWa61.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="61", SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
+
 #EXTINF:-1 tvg-logo="https://iili.io/JjzV4ol.png", group-title="SUKAMENAK TV" ch-number="60", SPORTSTAR 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/JjzV89s.png", group-title="SUKAMENAK TV" ch-number="61", SPORTSTAR 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -320,6 +325,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/444/334444-BANNER_COMPANION_SLIDER-l.jpg" group-title="SUKAMENAK TV" ch-number="64", RCTI+
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; IKAHJEEOKO) ExoPlayerLib/2.15.1
