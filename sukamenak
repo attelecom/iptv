@@ -90,7 +90,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|R
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="SUKAMENAK TV" ch-number="20", RCTI
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157591
+http://xtv.ooo:8080/suk40003/44585/351023
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="21", MNCTV
@@ -119,7 +119,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Refe
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="SUKAMENAK TV" ch-number="26", GTV
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157578
+http://xtv.ooo:8080/suk40003/44585/350954
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="27", TRANS7
