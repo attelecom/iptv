@@ -329,7 +329,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 #EXTINF:-1 tvg-logo="https://iili.io/3H605iv.png" group-title="SUKAMENAK TV" ch-number="62", SPORTSTAR 333
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sportstar3.nonas.workers.dev/licesnse?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenx.my.id/vision/index2.mpd?id=114&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://iili.io/3xZ3vob.png", group-title="SUKAMENAK TV" ch-number="63", SPORTSTAR 4
@@ -338,6 +338,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_key=https://sportstar3.nonas.workers.dev/licesnse?id=1002
 #EXTINF:-1 group-title="2. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" ,Sports+4r 3
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|license_type=com.widevine.alpha&license_key=https://sportstar3.nonas.workers.dev/licesnse?id=1002&referrer=https://visionplus.id
 #EXTINF:-1 group-title="2. SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/2560px-Star_logo.svg.png" tvg-id="MNCSports4.id" tvg-name="MNC Sports 4" ,Sports+4r 4
