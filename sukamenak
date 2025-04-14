@@ -250,10 +250,11 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157579
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png",group-title="SUKAMENAK TV" ch-number="52", IDX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png",group-title="SUKAMENAK TV" ch-number="52", IDX Chanel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCfg.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="53", BTV
