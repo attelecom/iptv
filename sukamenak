@@ -79,11 +79,10 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="18", RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="19", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
@@ -96,11 +95,10 @@ http://xtv.ooo:8080/suk40003/44585/351023
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="21", MNCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="22", MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -112,9 +110,10 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165054
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="24", GTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="25", GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -236,10 +235,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img//M7OFrvF.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="48", iNEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://inews-cutv.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img//M7OFrvF.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="49", iNEWS
 #EXTVLCOPT:http-user-agent=android-R+
