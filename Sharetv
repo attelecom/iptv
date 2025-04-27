@@ -4627,6 +4627,8 @@ https://DNS2.SERV00.COM/Smartv.php?id=Kompass
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Berita Satu
 http://DNS2.SERV00.COM/Smartv.php?id=BeritaSatu_eko
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Indosiar HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://SERV00.COM/Smartv.php?id=Indosiar
 #EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",AnTV
 http://SERV00.COM/Smartv.php?id=Antv
