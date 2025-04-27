@@ -4617,96 +4617,99 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48106
 
 印尼 Indonesia,#genre#
 #EXTM3U
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/039/147/697/small/southeast-asia-country-map-map-of-southeast-asia-in-multicolor-png.png", group-title="ASIA SERVER"
 
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",TVRI National
+
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",TVRI National
 https://phdown.serv00.net/Smartv.php?id=TVRI
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",RCTI
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",RCTI
 https://phdown.serv00.net/Smartv.php?id=Rcti
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Kompass TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Kompass TV
 https://phdown.serv00.net/Smartv.php?id=Kompass
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Berita Satu
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Berita Satu
 https://phdown.serv00.net/Smartv.php?id=BeritaSatu_eko
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Indosiar HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Indosiar HD
 https://phdown.serv00.net/Smartv.php?id=Indosiar
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",AnTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",AnTV
 https://phdown.serv00.net/Smartv.php?id=Antv
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",MNC TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",MNC TV
 https://phdown.serv00.net/Smartv.php?id=Mnctv
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Trans 7
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Trans 7
 https://phdown.serv00.net/Smartv.php?id=Trans7_eko
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Transtv
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Transtv
 https://phdown.serv00.net/Smartv.php?id=Transtv
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",JTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",JTV
 https://phdown.serv00.net/Smartv.php?id=JTV_eko
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Metro TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Metro TV
 https://phdown.serv00.net/Smartv.php?id=metrotv_eko
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Cinemax
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Cinemax
 https://phdown.serv00.net/Smartv.php?id=Cinemax
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",SCTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",SCTV
 https://phdown.serv00.net/Smartv.php?id=SCTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Tvone
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Tvone
 https://phdown.serv00.net/Smartv.php?id=Tvone
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",TVMU
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",TVMU
 https://phdown.serv00.net/Smartv.php?id=TVMU_eko
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",GTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",GTV
 https://phdown.serv00.net/Smartv.php?id=Gtv
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",RTV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",RTV
 https://phdown.serv00.net/Smartv.php?id=Rtv
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Jak TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Jak TV
 https://phdown.serv00.net/Smartv.php?id=JakTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",iNews TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",iNews TV
 https://phdown.serv00.net/Smartv.php?id=Inewstv
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Daai TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Daai TV
 https://phdown.serv00.net/Smartv.php?id=DaaiTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Net TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Net TV
 https://phdown.serv00.net/Smartv.php?id=NetTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Animax
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Animax
 https://phdown.serv00.net/Smartv.php?id=Animax
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",EWTN
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",EWTN
 https://phdown.serv00.net/Smartv.php?id=Ewtn
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",AlQuran AlKareem
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",AlQuran AlKareem
 https://phdown.serv00.net/Smartv.php?id=AlQuran
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Tawaf TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Tawaf TV
 https://phdown.serv00.net/Smartv.php?id=TawafTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Vision Prime
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Vision Prime
 https://phdown.serv00.net/Smartv.php?id=VisionPrime
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Muslim TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Muslim TV
 https://phdown.serv00.net/Smartv.php?id=MuslimTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Music TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Music TV
 https://phdown.serv00.net/Smartv.php?id=MusicTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Lifestyle&Fashion
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Lifestyle&Fashion
 https://phdown.serv00.net/Smartv.php?id=Lifestyle
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Entertain
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Entertain
 https://phdown.serv00.net/Smartv.php?id=Entertain
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Hits
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Hits
 https://phdown.serv00.net/Smartv.php?id=Hits
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Warner TV
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Warner TV
 https://phdown.serv00.net/Smartv.php?id=WarnerTV
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",SCM
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",SCM
 https://phdown.serv00.net/Smartv.php?id=Weishimovie
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Thrill
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Thrill
 https://phdown.serv00.net/Smartv.php?id=Thrill
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Fight Sports
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Fight Sports
 https://phdown.serv00.net/Smartv.php?id=Fs
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Beinsports 2 HD
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Beinsports 2 HD
 https://phdown.serv00.net/Smartv.php?id=Bein2hd
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Hits Movie
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Hits Movie
 https://phdown.serv00.net/Smartv.php?id=Hitsmovie
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",One
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",One
 https://phdown.serv00.net/Smartv.php?id=One_mega
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",tvN Movie
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",tvN Movie
 https://phdown.serv00.net/Smartv.php?id=Tvnmovie
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Celestial Movies HD
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Celestial Movies HD
 https://phdown.serv00.net/Smartv.php?id=Celestialindo
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Rock Actions
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Rock Actions
 https://phdown.serv00.net/Smartv.php?id=Rockaction
-#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="XXX",Rock Entertainment
+#EXTINF:-1 group-title="ASIA SERVER" tvg-logo="999",Rock Entertainment
 https://phdown.serv00.net/Smartv.php?id=Rockentertain
 
 
 印尼 Indonesia,#genre#
+#EXTM3U
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/012/806/773/small/doodle-freehand-drawing-of-south-east-asia-countries-map-free-png.png", group-title="ASIAN SERVER"
+
 
 TVRI National,
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
