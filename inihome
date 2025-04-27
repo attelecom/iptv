@@ -71,7 +71,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/logo_idx_small.png",IDX Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
@@ -83,7 +83,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLP8YCvEMtKTfZZuUESqgQxklp2JfcXc21w&s",Jakarta GlobeNews Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
@@ -177,7 +177,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://images.indihometv.com/assets/88_ALJAZEERA_2025_03_17_14_58_14.png",Al Jazeera Arabic
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
 https://atemeshield1-voe.sysln.id/live/eds/AlJzrArab/mpd/AlJzrArab.mpd
@@ -189,7 +189,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
@@ -201,7 +201,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_353.png",CGTN
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
 https://atemeshield1-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
@@ -224,7 +224,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png",Fox News Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
 https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
@@ -264,7 +264,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548",Citra Entertainment
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
@@ -281,7 +281,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain_dash/manifest.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.indihometv.com/assets/88_HITS_2025_03_17_15_12_42.png",HITS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
@@ -302,7 +302,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/insert720/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.indihometv.com/assets/88_KBSWORLD_2025_03_17_15_01_35.png",KBS World
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemeshield1-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
@@ -390,7 +390,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemeshield1-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
@@ -415,7 +415,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://images.indihometv.com/assets/88_TLC_2025_03_17_15_17_48.png",TLC
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 https://atemeshield1-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
@@ -467,13 +467,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://eu1-prod-images.disco-api.com/2023/08/08/b2118319-0565-34ee-bccf-6228b1ec0426.png?bf=0&f=jpg&p=true&q=70&w=1920",DMAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 https://atemeshield1-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",Global Trekker
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 https://atemeshield1-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
@@ -506,7 +506,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 ============
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/assets/88_ANIMAX_2025_03_17_15_14_19.png",Animax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
@@ -553,7 +553,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=7052&type=hls
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/assets/88_HOREEE!_2025_03_17_14_50_23.png",Horee!
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemeshield1-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
@@ -582,7 +582,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/assets/88_NICKELODEON_2025_03_17_14_57_07.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
@@ -619,7 +619,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144",Citra Bioskop
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
@@ -644,7 +644,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.indihometv.com/assets/88_HITSMOVIES_2025_03_17_15_14_06.png",HITS Movies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemeshield1-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
@@ -675,7 +675,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony MAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
@@ -767,7 +767,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_149.png",MTV 90s
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemeshield1-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
@@ -849,13 +849,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.indihometv.com/assets/88_SPOTV_2025_03_17_14_58_39.png", SPOTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.indihometv.com/assets/88_SPOTV2_2025_03_17_14_59_39.png", SPOTV 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemeshield1-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
@@ -876,7 +876,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/paramount_dash/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg",Citra Muslim
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 https://atemeshield1-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
