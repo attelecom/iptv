@@ -243,11 +243,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash/KompasTV.mpd|Refe
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
 
 
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="SUKAMENAK TV" ch-number="49", QuranTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzP67kNQ4X31JNxxiMQeM-iYsH9oHoQy7PVw&usqp=CAU" group-title="SUKAMENAK TV" ch-number="49", QuranTV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="SUKAMENAK TV" ch-number="50", SunnaTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvjMF09JtR8g-kqchgBNxqftYQAJILlytTd417X5olg&s" group-title="SUKAMENAK TV" ch-number="50", SunnaTV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 
