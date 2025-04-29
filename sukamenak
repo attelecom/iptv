@@ -243,7 +243,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash/KompasTV.mpd|Refe
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
 
 
-#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/081083b4-62b6-43b1-b9c2-10035c60ad90.png" group-title="SUKAMENAM TV" ch-number="49", QuranTV
+#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/081083b4-62b6-43b1-b9c2-10035c60ad90.png" group-title="SUKAMENAK TV" ch-number="49", QuranTV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
@@ -327,7 +327,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 group-title="⚽|SPORTS" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png", Sportstars 2 
+#EXTINF:-1 group-title="⚽|SPORTS" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png", Sportstars 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
