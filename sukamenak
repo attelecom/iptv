@@ -242,14 +242,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash/KompasTV.mpd|Refe
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img//M7OFrvF.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="49", iNEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="SUKAMENAK TV" ch-number="50", iNEWS
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157579
+#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/081083b4-62b6-43b1-b9c2-10035c60ad90.png" group-title="SUKAMENAM TV" ch-number="49", QuranTV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a03f8315-fa11-4d3c-b73b-cf5fcac6ea8c.png" group-title="SUKAMENAK TV" ch-number="50", SunnaTV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hF7S77p.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="51", SINDO NEWS
