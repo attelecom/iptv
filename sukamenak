@@ -23,10 +23,12 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd|referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="SUKAMENAK TV" ch-number="4", TVRI Jakarta
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_900000=10002-mp4a_96000_eng=20001.m3u8
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_barat.png" group-title="SUKAMENAK TV" ch-number="5", TVRI Jawa Barat
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10002-mp4a_96000_eng=20001.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="6", INDOSIAR
@@ -288,10 +290,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nbPL1vB.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="56", GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wxYswsV.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="57", TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/I64wd67.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="58", TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
 End
