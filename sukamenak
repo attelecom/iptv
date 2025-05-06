@@ -24,11 +24,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuB
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="SUKAMENAK TV" ch-number="4", TVRI Jakarta
 #https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_900000=10002-mp4a_96000_eng=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_barat.png" group-title="SUKAMENAK TV" ch-number="5", TVRI Jawa Barat
 #https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10004-mp4a_96000_eng=20001.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="6", INDOSIAR
