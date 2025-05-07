@@ -295,8 +295,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/I64wd67.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="58", TVRI Sport
-#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 End
 
