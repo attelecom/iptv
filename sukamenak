@@ -145,7 +145,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w37916269_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SUKAMENAK TV" ch-number="29", TRANS7
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162502
+http://xtv.ooo:8080/Abbas345/12123563/351040
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="30", TRANSTV
@@ -161,7 +161,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="SUKAMENAK TV" ch-number="32", TRANSTV
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162503
+http://xtv.ooo:8080/Abbas345/12123563/351041
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="33", MDTV
@@ -176,7 +176,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="SUKAMENAK TV" ch-number="35", MDTV
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/80292
+http://xtv.ooo:8080/Abbas345/12123563/351010
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aNYcSQ.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="36", RTV
@@ -264,11 +264,11 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCfg.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="51", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+http://xtv.ooo:8080/Abbas345/12123563/350902
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="52", BERITA SATU
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+http://xtv.ooo:8080/Abbas345/12123563/350903
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="53", CNN Indonesia
@@ -308,7 +308,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 
 #EXTINF:-1 group-title="⚽|SPORTS" tvg-logo="https://warningfm.github.io/v3/img//M7OFrvF.png?v=1.0.0.1", LIVE Badminton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://xtv.ooo:8080/suk40003/44585/350973
+http://xtv.ooo:8080/Abbas345/12123563/350973
 
 #EXTINF:-1 group-title="⚽|SPORTS" tvg-logo="https://cdn.brandfetch.io/proliga.co.id/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed", LIVE SPORT Pr0L164
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
