@@ -18,8 +18,6 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="3", TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://av-ch-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="SUKAMENAK TV" ch-number="4", TVRI Jakarta
 #https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
@@ -41,7 +39,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SUKAMENAK TV" ch-number="8", INDOSIAR
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162138
+http://xtv.ooo:8080/Abbas345/12123563/350972
 
 
 #EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="9", SCTV
@@ -55,7 +53,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="SUKAMENAK TV" ch-number="11", SCTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162141
+http://xtv.ooo:8080/Abbas345/12123563/351030
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="12", MOJI
@@ -69,7 +67,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="SUKAMENAK TV" ch-number="14", MOJI
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
+http://xtv.ooo:8080/Abbas345/12123563/350997
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="15", ANTV
@@ -83,7 +81,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="SUKAMENAK TV" ch-number="17", ANTV
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
+http://xtv.ooo:8080/Abbas345/12123563/350892
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="18", RCTI
