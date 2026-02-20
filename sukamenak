@@ -122,7 +122,7 @@ http://xtv.ooo:8080/Abbas345/12123563/351023
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 ##EXTVLCOPT:http-referrer=https://visionplus.id
-http://103.146.197.250:25461/live/daeng/tmgrh/11
+http://103.146.197.250:25461/daeng/tmgrh/11
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="22", MNCTV
@@ -138,8 +138,8 @@ http://xtv.ooo:8080/Abbas345/12123563/350996
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 ##EXTVLCOPT:http-referrer=https://visionplus.id
-#http://103.146.197.250:25461/live/daeng/tmgrh/13
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+http://103.146.197.250:25461/daeng/tmgrh/13
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="25", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
