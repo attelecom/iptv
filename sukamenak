@@ -10,18 +10,16 @@ Silakan gunakan link: https://s.id/DJ-TV
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/attelecom/iptv/refs/heads/main/skm.png" group-title="SUKAMENAK"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzP67kNQ4X31JNxxiMQeM-iYsH9oHoQy7PVw&usqp=CAU" group-title="SUKAMENAK TV" ch-number="1", QuranTV
-##http://m.live.net.sa:1935/live/quran/playlist.m3u8
-##EXTINF:-1 tvg-id="82" tvg-logo="https://www.dens.tv/images/channel-logo/82.jpg" group-title="Dens TV", Quran TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvjMF09JtR8g-kqchgBNxqftYQAJILlytTd417X5olg&s" group-title="SUKAMENAK TV" ch-number="2", SunnaTV
-##http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-##EXTINF:-1 tvg-id="88" tvg-logo="https://www.dens.tv/images/channel-logo/88.jpg" group-title="Dens TV", Sunna TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="SUKAMENAK TV" ch-number="3", TVRI
@@ -90,7 +88,6 @@ http://xtv.ooo:8080/Abbas345/12123563/350997
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-##EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Nasional",ANTV 🔵
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
