@@ -4,130 +4,199 @@
 ######################################################################
 ## PLAYLIST UNTUK HIBURAN, BEBERAPA CHANNEL MUNGKIN TIDAK BERFUNGSI ##
 ######################################################################
-note: Server nonton.site tidak bisa diakses.
 
-###Firstmedia
+#EXTINF:-1,Rombongan Besan TV 1
+http://103.146.197.250:25461/daeng/tmgrh/1
+#EXTINF:-1,Rombongan Besan TV 2
+http://103.146.197.250:25461/daeng/tmgrh/2
+#EXTINF:-1,Rombongan Besan TV 3
+http://103.146.197.250:25461/daeng/tmgrh/3
+#EXTINF:-1,Budaya TV
+http://103.146.197.250:25461/daeng/tmgrh/4
+#EXTINF:-1,Dunia Anak
+http://103.146.197.250:25461/daeng/tmgrh/5
+#EXTINF:-1,Citra Drama
+http://103.146.197.250:25461/daeng/tmgrh/6
+#EXTINF:-1,Lubis Media TV
+http://103.146.197.250:25461/daeng/tmgrh/7
+#EXTINF:-1,Jowo Channel
+http://103.146.197.250:25461/daeng/tmgrh/8
+#EXTINF:-1,BWI 1 TV
+http://103.146.197.250:25461/daeng/tmgrh/9
+#EXTINF:-1,RCTI
+http://103.146.197.250:25461/daeng/tmgrh/10
+#EXTINF:-1,MNCTV
+http://103.146.197.250:25461/daeng/tmgrh/11
+#EXTINF:-1,TV ONE
+http://103.146.197.250:25461/daeng/tmgrh/12
+#EXTINF:-1,GTV
+http://103.146.197.250:25461/daeng/tmgrh/13
+#EXTINF:-1,Metro TV
+http://103.146.197.250:25461/daeng/tmgrh/14
+#EXTINF:-1,TRANS TV
+http://103.146.197.250:25461/daeng/tmgrh/15
+#EXTINF:-1,INDOSIAR
+http://103.146.197.250:25461/daeng/tmgrh/16
+#EXTINF:-1,TRANS 7
+http://103.146.197.250:25461/daeng/tmgrh/17
+#EXTINF:-1,SCTV
+http://103.146.197.250:25461/daeng/tmgrh/18
+#EXTINF:-1,ANTV
+http://103.146.197.250:25461/daeng/tmgrh/19
+#EXTINF:-1,MDTV
+http://103.146.197.250:25461/daeng/tmgrh/20
+#EXTINF:-1,Kompas TV
+http://103.146.197.250:25461/daeng/tmgrh/21
+#EXTINF:-1,RTV
+http://103.146.197.250:25461/daeng/tmgrh/22
+#EXTINF:-1,Mentari TV
+http://103.146.197.250:25461/daeng/tmgrh/23
+#EXTINF:-1,MOJI HD
+http://103.146.197.250:25461/daeng/tmgrh/24
+#EXTINF:-1,Inews
+http://103.146.197.250:25461/daeng/tmgrh/25
+#EXTINF:-1,CNN Indonesia
+http://103.146.197.250:25461/daeng/tmgrh/26
+#EXTINF:-1,CNBC Indonesia
+http://103.146.197.250:25461/daeng/tmgrh/27
+#EXTINF:-1,Berita Satu
+http://103.146.197.250:25461/daeng/tmgrh/28
+#EXTINF:-1,NTV
+http://103.146.197.250:25461/daeng/tmgrh/32
+#EXTINF:-1,Nusantara TV
+http://103.146.197.250:25461/daeng/tmgrh/428
+#EXTINF:-1,Indonesiana TV
+http://103.146.197.250:25461/daeng/tmgrh/33
+#EXTINF:-1,TVRI Nasional
+http://103.146.197.250:25461/daeng/tmgrh/35
+#EXTINF:-1,JTV
+http://103.146.197.250:25461/daeng/tmgrh/36
+#EXTINF:-1,Bali TV
+http://103.146.197.250:25461/daeng/tmgrh/37
+#EXTINF:-1,Astro Supersport 1
+http://103.146.197.250:25461/daeng/tmgrh/429
+#EXTINF:-1,Astro Supersport 2
+http://103.146.197.250:25461/daeng/tmgrh/430
+#EXTINF:-1,Astro Supersport 3
+http://103.146.197.250:25461/daeng/tmgrh/431
+#EXTINF:-1,Astro Supersport 4
+http://103.146.197.250:25461/daeng/tmgrh/432
+#EXTINF:-1,DSTV Supersport Football
+http://103.146.197.250:25461/daeng/tmgrh/433
+#EXTINF:-1,DSTV Supersport EPL
+http://103.146.197.250:25461/daeng/tmgrh/434
+#EXTINF:-1,DSTV Supersport LA LIGA
+http://103.146.197.250:25461/daeng/tmgrh/435
+#EXTINF:-1,TNT Sports 1
+http://103.146.197.250:25461/daeng/tmgrh/436
+#EXTINF:-1,TNT Sports 2
+http://103.146.197.250:25461/daeng/tmgrh/437
+#EXTINF:-1,TNT Sports 3
+http://103.146.197.250:25461/daeng/tmgrh/438
+#EXTINF:-1,SPOTV
+http://103.146.197.250:25461/daeng/tmgrh/38
+#EXTINF:-1,SPOTV 2
+http://103.146.197.250:25461/daeng/tmgrh/39
+#EXTINF:-1,MUTV
+http://103.146.197.250:25461/daeng/tmgrh/40
+#EXTINF:-1,Real Madrid TV
+http://103.146.197.250:25461/daeng/tmgrh/41
+#EXTINF:-1,Bein Sports 1 HD
+http://103.146.197.250:25461/daeng/tmgrh/42
+#EXTINF:-1,Bein Sports 3 HD
+http://103.146.197.250:25461/daeng/tmgrh/43
+#EXTINF:-1,FoxSport HD
+http://103.146.197.250:25461/daeng/tmgrh/44
+#EXTINF:-1,Fight Sport HD
+http://103.146.197.250:25461/daeng/tmgrh/45
+#EXTINF:-1,NBA TV
+http://103.146.197.250:25461/daeng/tmgrh/46
+#EXTINF:-1,Sports TV
+http://103.146.197.250:25461/daeng/tmgrh/47
+#EXTINF:-1,Redbull TV
+http://103.146.197.250:25461/daeng/tmgrh/90
+#EXTINF:-1,HBO HD
+http://103.146.197.250:25461/daeng/tmgrh/48
+#EXTINF:-1,HBO Hits
+http://103.146.197.250:25461/daeng/tmgrh/49
+#EXTINF:-1,HBO Signature HD
+http://103.146.197.250:25461/daeng/tmgrh/50
+#EXTINF:-1,HBO Family HD
+http://103.146.197.250:25461/daeng/tmgrh/51
+#EXTINF:-1,Cinemax
+http://103.146.197.250:25461/daeng/tmgrh/52
+#EXTINF:-1,Galaxy HD
+http://103.146.197.250:25461/daeng/tmgrh/53
+#EXTINF:-1,Galaxy Movies Premium
+http://103.146.197.250:25461/daeng/tmgrh/54
+#EXTINF:-1,AXN HD
+http://103.146.197.250:25461/daeng/tmgrh/55
+#EXTINF:-1,Cinema World
+http://103.146.197.250:25461/daeng/tmgrh/56
+#EXTINF:-1,Cinema Europe
+http://103.146.197.250:25461/daeng/tmgrh/57
+#EXTINF:-1,K+
+http://103.146.197.250:25461/daeng/tmgrh/58
+#EXTINF:-1,TVN
+http://103.146.197.250:25461/daeng/tmgrh/59
+#EXTINF:-1,TVN Movies
+http://103.146.197.250:25461/daeng/tmgrh/60
+#EXTINF:-1,Celestial Movies
+http://103.146.197.250:25461/daeng/tmgrh/61
+#EXTINF:-1,Thrill
+http://103.146.197.250:25461/daeng/tmgrh/62
+#EXTINF:-1,Paramount Network
+http://103.146.197.250:25461/daeng/tmgrh/63
+#EXTINF:-1,FLIX
+http://103.146.197.250:25461/daeng/tmgrh/64
+#EXTINF:-1,Bioskop Indonesia
+http://103.146.197.250:25461/daeng/tmgrh/65
+#EXTINF:-1,KIX
+http://103.146.197.250:25461/daeng/tmgrh/66
+#EXTINF:-1,FOX Crime
+http://103.146.197.250:25461/daeng/tmgrh/68
+#EXTINF:-1,Rock Entertainment
+http://103.146.197.250:25461/daeng/tmgrh/69
+#EXTINF:-1,Dunia Lain
+http://103.146.197.250:25461/daeng/tmgrh/70
+#EXTINF:-1,Zoo Moo Asia
+http://103.146.197.250:25461/daeng/tmgrh/71
+#EXTINF:-1,Aniplus Asia
+http://103.146.197.250:25461/daeng/tmgrh/72
+#EXTINF:-1,Cartoon Network
+http://103.146.197.250:25461/daeng/tmgrh/74
+#EXTINF:-1,DreamWorks HD
+http://103.146.197.250:25461/daeng/tmgrh/75
+#EXTINF:-1,Nick Jr
+http://103.146.197.250:25461/daeng/tmgrh/76
+#EXTINF:-1,Tech Storm
+http://103.146.197.250:25461/daeng/tmgrh/77
+#EXTINF:-1,MTV
+http://103.146.197.250:25461/daeng/tmgrh/78
+#EXTINF:-1,AFN
+http://103.146.197.250:25461/daeng/tmgrh/79
+#EXTINF:-1,HGTV
+http://103.146.197.250:25461/daeng/tmgrh/80
+#EXTINF:-1,History Channel
+http://103.146.197.250:25461/daeng/tmgrh/81
+#EXTINF:-1,Arirang
+http://103.146.197.250:25461/daeng/tmgrh/82
+#EXTINF:-1,Sony GEM
+http://103.146.197.250:25461/daeng/tmgrh/83
+#EXTINF:-1,U Channel
+http://103.146.197.250:25461/daeng/tmgrh/85
+#EXTINF:-1,TVMU
+http://103.146.197.250:25461/daeng/tmgrh/86
+#EXTINF:-1,TV9 Nusantara
+http://103.146.197.250:25461/daeng/tmgrh/87
+#EXTINF:-1,Rodja TV
+http://103.146.197.250:25461/daeng/tmgrh/88
+#EXTINF:-1,TV MUI
+http://103.146.197.250:25461/daeng/tmgrh/89
+#EXTINF:-1,MAKKAH
+http://103.146.197.250:25461/daeng/tmgrh/439
 
-#EXTINF:-1 group-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png", group-title="FIRSTMEDIA"
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="FIRSTMEDIA",Indosiar
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="FIRSTMEDIA",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="FIRSTMEDIA", MOJI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="FIRSTMEDIA",ANTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="FIRSTMEDIA",DAAI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="FIRSTMEDIA",Kompas TV HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png" group-title="FIRSTMEDIA" Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="FIRSTMEDIA",SpoTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="FIRSTMEDIA",SpoTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
-
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png", CNN Int HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="FIRSTMEDIA",Bloomberg
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="FIRSTMEDIA",NHK World Japan
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
-https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="FIRSTMEDIA",BBC World
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-l.png" group-title="FIRSTMEDIA",Reformed21
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-l.png" group-title="FIRSTMEDIA",EWTN
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
-https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
-
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://gms.church/images/gms/short-white.svg",GMS HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
-https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
-
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png",Kairos
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
-
-#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg",TBN Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
+=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
 https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
 
 #EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
