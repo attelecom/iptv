@@ -97,7 +97,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 http://103.146.197.250:25461/daeng/tmgrh/10
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="SUKAMENAK TV" ch-number="20", RCTI
-http://xtv.ooo:8080/Abbas345/12123563/351023
+http://filex.me:8080//live/000003/000003/302297.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="21", MNCTV
@@ -111,7 +111,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 http://103.146.197.250:25461/daeng/tmgrh/11
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="SUKAMENAK TV" ch-number="23", MNCTV
-http://xtv.ooo:8080/Abbas345/12123563/350996
+http://filex.me:8080//live/000003/000003/302278.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="24", GTV
@@ -125,7 +125,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 http://103.146.197.250:25461/daeng/tmgrh/13
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="SUKAMENAK TV" ch-number="26", GTV
-http://xtv.ooo:8080/Abbas345/12123563/350954
+http://filex.me:8080//live/000003/000003/302247.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="27", TRANS7
@@ -259,6 +259,7 @@ http://103.146.197.250:25461/daeng/tmgrh/25
 ##KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 #https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 http://103.146.197.250:25461/daeng/tmgrh/23
+http://filex.me:8080//live/000003/000003/302261.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCfg.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="51", BTV
