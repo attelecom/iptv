@@ -47,7 +47,7 @@ http://103.146.197.250:25461/daeng/tmgrh/16
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
+http://filex.me:8080//live/000003/000003/302264.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="9", SCTV
@@ -58,7 +58,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 http://103.146.197.250:25461/daeng/tmgrh/18
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="SUKAMENAK TV" ch-number="11", SCTV
-http://xtv.ooo:8080/Abbas345/12123563/351030
+http://filex.me:8080//live/000003/000003/302301.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="12", MOJI
@@ -69,7 +69,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 http://103.146.197.250:25461/daeng/tmgrh/24
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="SUKAMENAK TV" ch-number="14", MOJI
-http://xtv.ooo:8080/Abbas345/12123563/350997
+http://filex.me:8080//live/000003/000003/302279.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="15", ANTV
@@ -83,7 +83,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 http://103.146.197.250:25461/daeng/tmgrh/19
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="SUKAMENAK TV" ch-number="17", ANTV
-http://xtv.ooo:8080/Abbas345/12123563/350892
+http://filex.me:8080//live/000003/000003/302206.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="18", RCTI
