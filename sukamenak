@@ -249,7 +249,7 @@ http://103.146.197.250:25461/daeng/tmgrh/21
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hF7S77p.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="49", iNEWS SINDO
-http://103.146.197.250:25461/daeng/tmgrh/25.m3u8
+http://103.146.197.250:25461/daeng/tmgrh/25
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png" group-title="SUKAMENAK TV" ch-number="50", MENTARI IDX Chanel
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
