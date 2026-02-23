@@ -296,7 +296,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="52", DUNIA ANAK
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="59", DUNIA ANAK
 http://103.146.197.250:25461/daeng/tmgrh/5
 
 End
