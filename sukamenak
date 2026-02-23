@@ -268,9 +268,8 @@ http://filex.me:8080//live/000003/000003/302261.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="52", DUNIA ANAK BERITA SATU
-#https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.146.197.250:25461/daeng/tmgrh/5
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="52", BERITA SATU
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.0.0.1" group-title="SUKAMENAK TV" ch-number="53", CNN Indonesia
@@ -296,6 +295,9 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/I64wd67.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="58", TVRI Sport
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="SUKAMENAK TV" ch-number="52", DUNIA ANAK
+http://103.146.197.250:25461/daeng/tmgrh/5
 
 End
 
