@@ -278,10 +278,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/logo_idx_small.png",IDX Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
-https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
